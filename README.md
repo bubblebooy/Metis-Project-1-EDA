@@ -1,2 +1,2 @@
-# Metis-Project-1-Exploratory-Data-Analysis-EDA-
+# Metis-Project-1-EDA
 Exploratory Data Analysis (EDA)
